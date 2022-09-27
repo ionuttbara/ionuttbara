@@ -13,9 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/JohnBar11513292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joni's Twitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16976393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17857451" height="30" width="40" /></a>
-<a href="https://fb.com/geoni.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imjapneet" height="30" width="40" /></a>
-<a href="https://instagram.com/geonathanul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joni" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UC2PA3uGJ9npzlh8Qo7IIj6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ionutbaraooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ionutbaraooo" height="30" width="40" /></a>
 </p>
 
