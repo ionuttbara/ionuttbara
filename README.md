@@ -31,8 +31,6 @@
 
 <br/>
 <br/>
-<a href="https://github.com/jbara2002/github-readme-activity-graph"><img alt="joni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbara2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbara2002&label=Profile%20views&color=129e00&style=plastic" alt="joni" /> </p>
