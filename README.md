@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm joni</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm geoni</h1>
 <h3 align="center">A passionate Developer and pre-Software Engiener from Romania</h3>
 
 - 🌱 I’m currently learning **Programming and Code**
